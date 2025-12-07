@@ -34,6 +34,7 @@ mainSections = ["ars-et-spiritus"]
   showRecentItems = 6 
   cardView = true 
   recentContentTitle = "Coleção: Ars et Spiritus"
+  contentTypeName = "ars-et-spiritus"
   titleInNav = true
 
 [author]
