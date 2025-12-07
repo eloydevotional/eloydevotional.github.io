@@ -21,7 +21,7 @@ mainSections = ["ars-et-spiritus"]
 [footer]
  # showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -38,8 +38,9 @@ mainSections = ["ars-et-spiritus"]
   showRecent = true
   showRecentItems = 6 
   cardView = true 
-  recentContentTitle = "Coleção: Ars et Spiritus"
-  contentTypeName = "ars-et-spiritus"
+
+[shortcode]
+  recent_articles = "Coleção: Ars et Spiritus"
 
 [author]
   name = "ELOY"
