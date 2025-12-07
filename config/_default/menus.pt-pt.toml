@@ -11,33 +11,28 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Coleção: Ars et Spiritus"
-  pageRef = "ars-et-spiritus"
+  name = "Sobre Nós"
+  pageRef = "sobre-nos"
   weight = 10
 
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
+  name = "Coleção: Ars et Spiritus"
+  pageRef = "ars-et-spiritus"
+  weight = 20
+
+[[main]]
+  name = "FAQs"
+  pageRef = "faqs"
+  weight = 30
+
+[[main]]
+  name = "Contactos"
+  pageRef = "contactos"
   weight = 40
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 50
-
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 60
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
  #[[footer]]
  #  name = "Tags"
