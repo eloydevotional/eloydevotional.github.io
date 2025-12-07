@@ -11,14 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Coleção: Ars et Spiritus"
+  pageRef = "./ars-et-spiritus/"
   weight = 10
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 20
 
 [[main]]
   identifier = "web"
