@@ -23,31 +23,31 @@
 [[main]]
   name = "Dia 1 - Escapulários"
   pageRef = "ars-et-spiritus/escapularios"
-  parent = "ars-et-spiritus"
+  parent = "Coleção: Ars et Spiritus"
   weight = 21
 
 [[main]]
   name = "Dia 2 - Pulseiras"
   pageRef = "ars-et-spiritus/pulseiras"
-  parent = "ars-et-spiritus"
+  parent = "Coleção: Ars et Spiritus"
   weight = 22
 
 [[main]]
   name = "Dia 3 - Dezenas"
   pageRef = "ars-et-spiritus/dezenas"
-  parent = "ars-et-spiritus"
+  parent = "Coleção: Ars et Spiritus"
   weight = 23
 
 [[main]]
   name = "Dia 4 - Pendentes"
   pageRef = "ars-et-spiritus/pendentes"
-  parent = "ars-et-spiritus"
+  parent = "Coleção: Ars et Spiritus"
   weight = 24
 
 [[main]]
   name = "Dia 5: Terços"
   pageRef = "ars-et-spiritus/tercos"
-  parent = "ars-et-spiritus"
+  parent = "Coleção: Ars et Spiritus"
   weight = 25
 
 [[main]]
