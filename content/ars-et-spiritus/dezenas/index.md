@@ -19,3 +19,8 @@ Antes de serem oração, são raiz.
 * Oratio Rubra
 
 Cada dezena é um pequeno jardim espiritual — onde o gesto se torna meditação, e a fé encontra o seu próprio ritmo para florescer.
+
+{{< figure src="1.jpg" caption="" >}}
+{{< figure src="2.jpg" caption="" >}}
+{{< figure src="3.jpg" caption="" >}}
+{{< figure src="4.jpg" caption="" >}}
