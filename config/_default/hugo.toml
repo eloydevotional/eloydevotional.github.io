@@ -17,9 +17,6 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
-[taxonomies]
-  colecao = "colecoes"
-
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
