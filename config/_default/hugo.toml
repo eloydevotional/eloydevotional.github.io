@@ -6,7 +6,7 @@ theme = "blowfish"
 baseURL = "https://eloydevotional.github.io/"
 defaultContentLanguage = "en"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 20
 summaryLength = 30
 
