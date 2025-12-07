@@ -25,6 +25,11 @@ mainSections = ["ars-et-spiritus"]
   showAppearanceSwitcher = true
   showScrollToTop = true
 
+[navigation]
+  navbarDivider = true 
+  stickyNav = true 
+  titleInNav = true
+
 [homepage]
   layout = "background" 
   homepageImage = "img/hero.jpg"
@@ -35,7 +40,6 @@ mainSections = ["ars-et-spiritus"]
   cardView = true 
   recentContentTitle = "Coleção: Ars et Spiritus"
   contentTypeName = "ars-et-spiritus"
-  titleInNav = true
 
 [author]
   name = "ELOY"
