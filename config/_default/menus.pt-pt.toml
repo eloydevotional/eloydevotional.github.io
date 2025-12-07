@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Coleção: Ars et Spiritus"
-  pageRef = "./ars-et-spiritus/"
+  pageRef = "ars-et-spiritus"
   weight = 10
 
 [[main]]
@@ -39,7 +39,7 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+ #[[footer]]
+ #  name = "Tags"
+ #  pageRef = "tags"
+ #  weight = 10
