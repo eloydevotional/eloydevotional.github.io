@@ -33,7 +33,19 @@ mainSections = ["ars-et-spiritus"]
   showRecent = true
   showRecentItems = 6 
   cardView = true 
-  recentContentTitle = "Coleção: Ars et Spiritus" 
+  recentContentTitle = "Coleção: Ars et Spiritus"
+  titleInNav = true
+
+[author]
+  name = "ELOY"
+  image = "img/logo.jpg"
+  headline = "FIDE FACTUM"
+  bio = "Joalharia devocional cristã. Criada com cuidado, fé e silêncio"
+   links = [
+     { link = "https://eloydevotional.github.io/" },
+     { instagram = "https://www.instagram.com/eloy.devotional/" },
+     { email = "eloy.devotional@gmail.com" }
+   ]
 
 [article]
   showDate = false

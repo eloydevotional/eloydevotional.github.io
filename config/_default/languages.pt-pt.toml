@@ -11,14 +11,3 @@ title = "ELOY Devotional"
   description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
-
-[params.author]
-  name = "ELOY"
-  image = "img/logo.jpg"
-  headline = "FIDE FACTUM"
-  bio = "Joalharia devocional cristã. Criada com cuidado, fé e silêncio"
-   links = [
-     { link = "https://eloydevotional.github.io/" },
-     { instagram = "https://www.instagram.com/eloy.devotional/" },
-     { email = "eloy.devotional@gmail.com" }
-   ]
