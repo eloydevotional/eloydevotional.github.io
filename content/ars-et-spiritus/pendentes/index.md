@@ -26,3 +26,9 @@ Cada um capaz de marcar com o potencial de ser o astro rei no céu estrelado de 
 
 Se algum deles fizer brilhar o seu firmamento interior,
 que encontre lugar ao peito.
+
+{{< figure src="1.jpg" caption="" >}}
+{{< figure src="2.jpg" caption="" >}}
+{{< figure src="3.jpg" caption="" >}}
+{{< figure src="4.jpg" caption="" >}}
+{{< figure src="5.jpg" caption="" >}}

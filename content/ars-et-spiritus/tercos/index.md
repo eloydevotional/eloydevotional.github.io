@@ -24,3 +24,8 @@ Cada terço é como um compasso vivo: o gesto que se repete, a alma que se eleva
 Duas formas — distintas, devocionais — criadas para acompanhar quem busca silêncio, movimento interior, e a graça de rezar com as mãos.
 
 Se um destes terços falar ao seu coração, que seja levado consigo como um testemunho de paz.
+
+{{< figure src="1.jpg" caption="" >}}
+{{< figure src="2.jpg" caption="" >}}
+{{< figure src="3.jpg" caption="" >}}
+{{< figure src="4.jpg" caption="" >}}

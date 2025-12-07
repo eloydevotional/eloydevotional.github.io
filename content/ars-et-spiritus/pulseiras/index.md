@@ -22,3 +22,10 @@ Antes de serem prata e cordão, são umbral.
 Cada pulseira é fronteira simbólica entre o que somos e o que construímos: um sinal que recorda que a fé precisa de gesto, e que o dia se desvela entre esforço e graça, entre intenção e inspiração.
 
 Se uma destas formas falar ao seu ritmo interior, que encontre morada no seu pulso, como que se levando consigo um fragmento do Firmamento.
+
+{{< figure src="1.jpg" caption="" >}}
+{{< figure src="2.jpg" caption="" >}}
+{{< figure src="3.jpg" caption="" >}}
+{{< figure src="4.jpg" caption="" >}}
+{{< figure src="5.jpg" caption="" >}}
+{{< figure src="6.jpg" caption="" >}}

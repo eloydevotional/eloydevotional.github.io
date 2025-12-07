@@ -24,4 +24,11 @@ Cada escapulário nasce como um pequeno amanhecer — discreto, essencial, pensa
 
 Cada escapulário é um fragmento desse primeiro amanhecer: leve, simples, íntimo — como a luz que desponta e revela.
 
-Se uma destas pequenas preciosidades ecoar no coração, que encontre lugar consigo. 
+Se uma destas pequenas preciosidades ecoar no coração, que encontre lugar consigo.
+
+{{< figure src="1.jpg" caption="" >}}
+{{< figure src="2.jpg" caption="" >}}
+{{< figure src="3.jpg" caption="" >}}
+{{< figure src="4.jpg" caption="" >}}
+{{< figure src="5.jpg" caption="" >}}
+{{< figure src="6.jpg" caption="" >}}
