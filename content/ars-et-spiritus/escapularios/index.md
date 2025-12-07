@@ -3,10 +3,7 @@ title: "Dia 1 - Escapulários"
 summary: "A Luz é chamada ao existir."
 #externalUrl: ""
 #showSummary: true
-date: 2021-09-04
 draft: false
-showHero: true
-heroStyle: "big"
 ---
 
 No primeiro dia da Criação, Deus evoca a Luz.

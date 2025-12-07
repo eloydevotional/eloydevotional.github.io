@@ -3,10 +3,7 @@ title: "Dia 4 - Pendentes"
 summary: "Os luminares orientam o caminhar."
 #externalUrl: ""
 #showSummary: true
-date: 2021-09-04
 draft: false
-showHero: true
-heroStyle: "big"
 ---
 
 No quarto dia da Criação, Deus coloca no Firmamento os luminares: o Sol para governar o dia, a Lua para velar a noite, e as estrelas para marcar o tempo.

@@ -3,10 +3,7 @@ title: "Dia 2 - Pulseiras"
 summary: "O Firmamento abre espaço para o gesto."
 #externalUrl: ""
 #showSummary: true
-date: 2021-09-04
 draft: false
-showHero: true
-heroStyle: "big"
 ---
 
 No segundo dia da Criação, Deus separa as águas e ergue o Firmamento. Surge a altura e a profundidade.
