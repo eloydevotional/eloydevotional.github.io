@@ -81,7 +81,7 @@ mainSections = ["ars-et-spiritus"]
   showSummary = true
   showTableOfContents = false
   showCards = true
-  groupByYear = true
+  groupByYear = false
   cardView = true
   cardViewScreenWidth = false
 
