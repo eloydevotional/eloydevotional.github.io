@@ -45,7 +45,7 @@
   weight = 24
 
 [[main]]
-  name = "Dia 5: Terços"
+  name = "Dia 5 - Terços"
   pageRef = "ars-et-spiritus/tercos"
   parent = "Coleção: Ars et Spiritus"
   weight = 25
